@@ -1,4 +1,4 @@
-Oi 👋, eu sou Lucas C. Villar
+Oi 👋, eu sou Lucas Cavalcanti Villar <img align="right" alt="Lcs" src="https://github.com/LucasCVillar/LucasCVillar/assets/153968598/72e12d92-a8cd-4ced-a4fc-0be6a4ee4ce6" width="200px" />
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%29)](https://www.linkedin.com/in/lucascavalcantivillar/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583981173566)
@@ -6,7 +6,7 @@ Oi 👋, eu sou Lucas C. Villar
 📜 Formado em contabilidade e com minha resente conclusão da formação em ciência de dados pela Alura,
 sou apaixonado pela ciência e análise de dados e busco uma oportunidade para aplicar meus conhecimentos nessa área.
 
-#### Tecnologias que uso para meu estudo em dados
+#### Tecnologias que uso para meus estudos em dados
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
